@@ -1,0 +1,1 @@
+mv samuraiフォルダ/samurai.txt.txt samuraiフォルダ/samurai.txt
