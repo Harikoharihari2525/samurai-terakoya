@@ -1,4 +1,0 @@
-mv samuraiフォルダ/samurai.txt.txt samuraiフォルダ/samurai.txt
-git add samuraiフォルダ/samurai.txt
-git commit -m "Rename file to correct extension"
-git push origin main
